@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://main--aem-ue-210544--abhishekkumar210544.aem.live/sitemap.xml
